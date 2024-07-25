@@ -21,7 +21,7 @@ This is a Python-based coffee machine simulation that demonstrates basic object-
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/oop-coffee-machine2.git
+    git clone https://github.com/nares10/oop-coffee-machine2.git
     ```
 
 2. Navigate to the project directory:
